@@ -1,0 +1,32 @@
+
+.add-report {
+    display: flex;
+    justify-content: flex-end;
+    margin: 30px 75px 15px 0;
+}
+
+.btn-add-report {
+    border: none;
+    background-color: rgb(16, 158, 163);
+    border-radius: 8px;
+    padding: 8px 12px;
+    color: white;
+}
+
+.search-input {
+    width: 60vh;
+    padding: 7px 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(190, 190, 190);
+    /* outline: none; */
+    background-color: #efefef;
+    margin-bottom: 20px;
+    margin: 30px 10px 10px 0;
+}
+
+.table-report {
+    max-width: 900px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+}

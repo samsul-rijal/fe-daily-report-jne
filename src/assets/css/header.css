@@ -1,0 +1,57 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #212b20;
+}
+
+.menu {
+    display: flex;
+}
+
+.logo-app {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+}
+
+.menu-item {
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    margin: 10px 20px;
+}
+
+.dropdown-toggle {
+    margin-top: -5px;
+}
+
+.dropdown-toggle:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.dropdown-menu {
+    background-color: rgb(41, 40, 40);
+    border-radius: 5px;
+}
+
+.link-icon {
+    display: flex;
+    padding: 5px;
+    color: #1c87a1;
+    margin-top: 5px;
+}
+
+.link-icon:hover {
+    text-decoration: none;
+}
+
+.title-icon {
+    margin-left: 20px;
+    margin-top: -5px;
+}
+
+

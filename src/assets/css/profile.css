@@ -1,0 +1,57 @@
+.title-profile {
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-profile {
+    border: 1px solid;
+    max-width: 600px;
+    height: 500px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 4px 8px #888888;
+    border-radius: 8px;
+}
+
+.title-user {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.title-user img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.profile-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.profile-user {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.title-label {
+    text-align: left;
+}
+
+.data-user {
+    text-align: left;
+    margin-left: 50px;
+}
+
+.btn-edit-user {
+    border: none;
+    background-color: rgb(16, 158, 163);
+    border-radius: 8px;
+    padding: 8px 50px;
+    color: white;
+}
